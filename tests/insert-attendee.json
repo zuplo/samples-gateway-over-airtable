@@ -1,0 +1,9 @@
+{
+  "description": "A simple test that invoked GET on the hello-world example",
+  "pathname": "/v1/attendees",
+  "method": "POST",
+  "headers": {
+    "content-type": "application/json"
+  },
+  "body": "{\n    \"name\": \"Josh\",\n    \"email\": \"josh@molmorg.com\"\n}"
+}

@@ -1,0 +1,10 @@
+{
+  "environmentVariables": {
+    "ATTENDEES_TABLE_URL": {
+      "variableType": "config"
+    },
+    "API_KEY": {
+      "variableType": "secret"
+    }
+  }
+}
